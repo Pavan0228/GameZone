@@ -18,7 +18,7 @@
 
 ### **Controls:**
 
--   **WASD / Arrow Keys**: Move your character
+-   **W A S D / Arrow Keys**: Move your character
 -   **TAB**: Attack nearby enemies
 -   **F**: Use equipped weapon's special attack
 -   **Q**: Quick heal using available potions
